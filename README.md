@@ -20,7 +20,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
-  <img height="32" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
-  <img height="32" width="40" src="https://cdn.simpleicons.org/googledrive/#4285F4" />
+<div>
+  <a href="https://instagram.com/_bryannvictorr_" target="_blank"><img height="32" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+  <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank"> <img height="32" width="40" src="https://cdn.simpleicons.org/googledrive/#4285F4" />
 </div>
