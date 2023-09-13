@@ -4,10 +4,10 @@
 - 📖 Atualmente estou estudando JavaScript e C#
 
 <a href="https://github.com/BryanVictorr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-bryanvictorr.vercel.app/api?username=BryanVictorr" />
+  <img height=180 align="center" src="https://github-readme-stats-bryanvictorr.vercel.app/api?username=BryanVictorr&theme=transparent" />
 </a>
 <a href="https://github.com/BryanVictorr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-bryanvictorr.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats-bryanvictorr.vercel.app/api/top-langs?username=BryanVictorr&layout=compact&langs_count=8&card_width=320&theme=transparent&size_weight=0.5&count_weight=0.5&hide=kvlang" />
 </a>
 
 <div style="display: inline_block"><br>
