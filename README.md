@@ -19,3 +19,8 @@
 </div>
 
 ##
+
+<div style="display: inline_block"><br>
+  <img height="32" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/googledrive/#4285F4" />
+</div>
