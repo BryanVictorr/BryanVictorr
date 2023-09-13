@@ -1,4 +1,4 @@
-### Oi Eu sou o Bryan
+### Oi, Eu sou o Bryan ✌️
 
 - 🏫 Estou fazendo bacharel em Sistemas de Informação pela Universidade Federal do Piauí 
 - 📖 Atualmente estou estudando JavaScript e C#
