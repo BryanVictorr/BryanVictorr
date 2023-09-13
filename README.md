@@ -21,7 +21,7 @@
 
 <div>
   <a href="https://instagram.com/_bryannvictorr_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Drive-%23E4405F?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
+  <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Drive-109010?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/daikke_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
  <a href="https://discord.gg/8bwyFRKc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://www.briannvictorr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
