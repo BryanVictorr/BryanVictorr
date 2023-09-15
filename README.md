@@ -10,7 +10,7 @@
   <img height=180 align="center" src="https://github-readme-stats-bryanvictorr.vercel.app/api/top-langs?username=BryanVictorr&layout=compact&langs_count=8&card_width=320&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br&hide=kvlang" />
 </a>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
