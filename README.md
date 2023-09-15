@@ -21,6 +21,13 @@
 ##
 
 <div style="display: inline_block">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div style="display: inline_block">
   <a href="https://instagram.com/_bryannvictorr_"target="_blank">
     <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
   <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing"target="_blank">
