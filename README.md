@@ -1,6 +1,6 @@
 ### Oi, Eu sou o Bryan ✌️
 
-- 🏫 Estou fazendo bacharel em Sistemas de Informação pela Universidade Federal do Piauí 
+- 🏫 Estou fazendo bacharel em Ciências da Computação pela Universidade Federal do Piauí 
 - 📖 Atualmente estou estudando JavaScript e C#
 
 <a href="https://github.com/BryanVictorr/github-readme-stats">
