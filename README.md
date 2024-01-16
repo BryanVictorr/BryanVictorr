@@ -1,7 +1,7 @@
 ### Oi, Eu sou o Bryan ✌️
 
 - 🏫 Estou fazendo bacharel em Sistemas de Informação pela Universidade Federal do Piauí 
-- 📖 Atualmente estou estudando JavaScript e C#
+- 📖 Atualmente estou estudando JavaScript
 
 <a href="https://github.com/BryanVictorr/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats-bryanvictorr.vercel.app/api?username=BryanVictorr&theme=transparent&locale=pt-br" />
