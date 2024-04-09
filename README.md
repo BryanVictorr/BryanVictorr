@@ -28,7 +28,7 @@
 ##
 
 <div>
-  <a href="https://instagram.com/_bryannvictorr_" target="_blank">
+  <a href="https://instagram.com/_bryannvictorr_" target="_blank" style="margin-left: 50px">
     <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
   </a>
   <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank">
