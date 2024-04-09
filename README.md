@@ -27,7 +27,7 @@
 
 ##
 
-<div style="display: inline_block; list-style-type: none" >
+<div style="display: inline_block; list-style-type: disc" >
   <a href="https://instagram.com/_bryannvictorr_" target="_blank">
     <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
   </a>
