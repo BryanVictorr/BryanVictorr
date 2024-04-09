@@ -27,10 +27,10 @@
 
 ##
 
-<div style="display: inline_block" >
+<div style="display: inline_block; style="list-style: none">
   <ul>
     <li>
-      <a href="https://instagram.com/_bryannvictorr_" target="_blank" style="list-style: none">
+      <a href="https://instagram.com/_bryannvictorr_" target="_blank">
         <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
       </a>
     </li>
