@@ -29,18 +29,19 @@
 
 <div style="display: inline_block">
   <a href="https://instagram.com/_bryannvictorr_" target="_blank">
-    <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
+    <img height="26" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/>
   </a>
   <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank">
-    <img height="26" width="40" src="https://cdn.simpleicons.org/googledrive/#4285F4"/>
+    <img height="26" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googledrive.svg"/>
   </a>
   <a href="https://discord.gg/8bwyFRKc" target="_blank">
-    <img height="26" width="40" src="https://cdn.simpleicons.org/discord/#5865F2"/>
+    <img height="26" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg"/>
   </a>
   <a href="mailto:www.briannvictorr@gmail.com">
-    <img height="26" width="40" src="https://cdn.simpleicons.org/gmail/#EA4335"/>
+    <img height="26" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/bryan-victor-647256245" target="_blank">
-    <img height="26" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2"/>
+    <img height="26" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"/>
   </a>
 </div>
+
