@@ -28,7 +28,7 @@
 ##
 
 <div style="display: inline_block" >
-  <ul>
+  <ul style="list-style: none">
     <li>
       <a href="https://instagram.com/_bryannvictorr_" target="_blank">
         <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
