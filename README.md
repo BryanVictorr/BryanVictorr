@@ -25,7 +25,7 @@
   <img align="center" alt="NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="ANGULAR" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
+  <img align="center" alt="VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
