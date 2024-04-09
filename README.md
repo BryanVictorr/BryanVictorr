@@ -27,15 +27,11 @@
 
 ##
 
-<div style="display: inline_block; style="list-style: none">
-  <ul>
-    <li>
-      <a href="https://instagram.com/_bryannvictorr_" target="_blank">
-        <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
-      </a>
-    </li>
-  </ul>
-  <!--<a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank">
+<div style="display: inline_block">
+  <a href="https://instagram.com/_bryannvictorr_" target="_blank">
+    <img height="26" width="40" src="https://cdn.simpleicons.org/instagram/#E4405F"/>
+  </a>
+  <a href="https://drive.google.com/drive/folders/1qiHtYPMsbU5WvlMb6M_eWuJPKfIyE4QT?usp=sharing" target="_blank">
     <img height="26" width="40" src="https://cdn.simpleicons.org/googledrive/#4285F4"/>
   </a>
   <a href="https://discord.gg/8bwyFRKc" target="_blank">
@@ -46,5 +42,5 @@
   </a>
   <a href="https://www.linkedin.com/in/bryan-victor-647256245" target="_blank">
     <img height="26" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2"/>
-  </a>-->
+  </a>
 </div>
